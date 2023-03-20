@@ -22,7 +22,7 @@ Requirements
 
 Building
 ------------
-Use pltformio to build and deploy.
+Use platformio to build and deploy.
 
 Supported user operations
 -------------------------
