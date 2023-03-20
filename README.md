@@ -1,8 +1,7 @@
-# aprs_tracker
-Tiny standalone single sketch Arduino APRS tracker based on modified version of LibAPRS with external GPS module
+Arduino UNO LibAPRS based tracker
+=================================
 
-Arduino APRS Tracker
-====================
+Tiny standalone single sketch Arduino APRS tracker based on modified version of LibAPRS with external GPS module, screen and rotary encoder
 
 Introduction
 ------------
